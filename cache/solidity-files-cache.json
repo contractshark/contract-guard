@@ -1,0 +1,47 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/sbacha/contract-guard/contracts/EIP3074Protection.sol": {
+      "lastModificationDate": 1630174762693,
+      "contentHash": "49f644ccf5adb63c05701d802c12ab92",
+      "sourceName": "contracts/EIP3074Protection.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "optimizer": {
+            "enabled": false,
+            "runs": 200,
+            "details": {
+              "yul": false
+            }
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "EIP3074Protection",
+        "EIP3074ProtectionTest",
+        "OnlyEOAs"
+      ]
+    }
+  }
+}

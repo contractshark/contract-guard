@@ -1,0 +1,30 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "EIP3074Protection",
+  "sourceName": "contracts/EIP3074Protection.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "txgas",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "gaslimit",
+          "type": "uint256"
+        }
+      ],
+      "name": "GasInfo",
+      "type": "event"
+    }
+  ],
+  "bytecode": "0x608060405260008060006101000a81548160ff021916908315150217905550348015602957600080fd5b5060168060376000396000f3fe6080604052600080fdfea164736f6c6343000804000a",
+  "deployedBytecode": "0x6080604052600080fdfea164736f6c6343000804000a",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
