@@ -1,7 +1,7 @@
 {
   "name": "contract-guard",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allow only EOA interaction via EIP 3074 ",
   "main": "lib/index.ts",
   "files": [
