@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "description": "Allow only EOA interaction via EIP 3074 ",
-  "main": "index.ts",
+  "main": "lib/index.ts",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json",
